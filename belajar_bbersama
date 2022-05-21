@@ -48,6 +48,7 @@ public class operator_aritmatika {
 
         s = String.format("%.2f", d);// string.format di gunakan untuk tipe data string oke
         System.out.println("Isi variabel s: " + s);
+        //membingungkan
 
     }
 
