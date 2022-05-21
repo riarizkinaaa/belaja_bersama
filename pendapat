@@ -45,6 +45,8 @@ public class operator_aritmatika {
         String s;
         d = 0.4 / 0.5;
         System.out.println("Isi variabel d: " + d);
+        s = String.format("%.2f", d);// string.format di gunakan untuk tipe data string oke
+        System.out.println("Isi variabel s: " + s);
 
     }
 
