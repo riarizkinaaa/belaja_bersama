@@ -45,6 +45,7 @@ public class operator_aritmatika {
         String s;
         d = 0.4 / 0.5;
         System.out.println("Isi variabel d: " + d);
+        //tetaplah berusaha
 
     }
 
